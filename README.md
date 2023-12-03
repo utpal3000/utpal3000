@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Utpal
-- 👀 I’m interested in Data Science, Machine Learning and Web Developement
-- 🌱 I’m currently learning Data Science and ML
-- 💞️ I’m looking to collaborate on AI and ML Projects
+- 👀 I’m interested in Cloud computing and Web development
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me s.utpal3000@gmail.com
 
 <!---
